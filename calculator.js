@@ -25,6 +25,7 @@ function divide(a, b) {
 const num1 = 10;
 const num2 = 5;
 
+// Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
 console.log(`Subtraction: ${a} - ${b} = ${subtract(a, b)}`);
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
