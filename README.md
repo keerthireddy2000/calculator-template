@@ -5,6 +5,9 @@ This repository contains a simple JavaScript-based calculator program that perfo
 ## Features
 
 Addition: Adds two numbers.
+
 Subtraction: Subtracts one number from another.
+
 Multiplication: Multiplies two numbers.
+
 Division: Divides one number by another.
