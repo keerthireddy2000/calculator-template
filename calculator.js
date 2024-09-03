@@ -22,8 +22,8 @@ function divide(a, b) {
 }
 
 // Example usage
-const num1 = 10;
-const num2 = 5;
+const a = 10;
+const b = 5;
 
 // Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
